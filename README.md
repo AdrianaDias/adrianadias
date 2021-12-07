@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=adrianadias&color=blue)
-
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLUsZUIIYoDnTMRJbl2S3MsWc_Clb_eKrHjvsP0oHoWBgZ1PvZC5W3HcC90hlW1IjczF9RT0c7wkJdQFldRzzpBeEq79grtg2VX9VdvumwUTgvEh2IBO-uoe96JcbpsKLJiTc8RRma08Bl2V9D6dF1OGOQ=w749-h649-no?authuser=0" min-width="400px" max-width="400px" width="400px" align="right" >
 ### Olá! Me chamo Adriana.👋
 
-### Sejam todos bem vindos ao meu Perfil Github.
+### Sejam todos bem vindos ao meu Perfil Github
 
 🔭 Estou em transição de carreira.
 
@@ -11,6 +11,8 @@
 👯 Sou estudante de Análise e desenvolvimento de sistemas.
 
 😄 Pronomes: Ela \ Dela
+
+
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/adrianaaodias) ou pelo [Gmail](https://adrianadias71@gmail.com)
