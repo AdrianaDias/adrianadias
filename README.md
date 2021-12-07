@@ -1,4 +1,7 @@
-### Olá! Me chamo Adriana. 👋
+![](https://komarev.com/ghpvc/?username=adrianadias&color=blue)
+
+### Olá! Me chamo Adriana.👋
+
 ### Sejam todos bem vindos ao meu Perfil Github.
 
 🔭 Estou em transição de carreira.
@@ -8,7 +11,6 @@
 👯 Sou estudante de Análise e desenvolvimento de sistemas.
 
 😄 Pronomes: Ela \ Dela
-![](https://komarev.com/ghpvc/?username=adrianadias&color=blue)
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/adrianaaodias) ou pelo [Gmail](https://adrianadias71@gmail.com)
