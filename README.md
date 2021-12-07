@@ -63,7 +63,8 @@
  <a href="mailto:"adrianadias71@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
    <a href="https://api.whatsapp.com/send?phone=5511975905047&text=Ol%C3%A1%20Lucas%20Te%20achei%20pelo%20Github%2C%20Que%20tal%20conversarmos%20um%20pouco%20%3F" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a><a href="https://www.facebook.com/adrianaaodias" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
    
   </a>
 </div>
