@@ -15,10 +15,10 @@
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/adrianaaodias) ou pelo [Gmail](https://adrianadias71@gmail.com)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/drikaodias) ou pelo [Gmail](https://adrianadiastech@gmail.com)
 </br>
 
-<a href="https://www.instagram.com/adrianaaodias" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/drikaodias" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/AdrianaAprobato" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/adrianadiass" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"                                                                        
  /></a>
