@@ -8,7 +8,7 @@
 
 🌱 Atualmente em busca de conhecimento e estudando Back end e Front end.
 
-👯 Sou estudante de Análise e desenvolvimento de sistemas.
+👯 Sou estudante de Análise e desenvolvimento do sistemas.
 
 😄 Pronomes: Ela \ Dela
 
