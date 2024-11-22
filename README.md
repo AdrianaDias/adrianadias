@@ -15,7 +15,7 @@
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/drikaodias) ou pelo [Gmail](https://adrianadiastech@gmail.com)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/adrianaaprobato) ou pelo [Gmail](https://adrianadiastech@gmail.com)
 </br>
 
 <a href="https://www.instagram.com/drikaodias" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
